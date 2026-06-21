@@ -1,0 +1,12 @@
+base_models/
+*.safetensors
+*.bin
+*.pth
+*.ckpt
+*.pt
+logs/
+outputs/
+data/
+__pycache__/
+*.pyc
+.DS_Store
